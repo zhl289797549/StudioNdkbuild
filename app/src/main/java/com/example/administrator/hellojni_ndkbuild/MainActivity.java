@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
+    int age =100;
     // Used to load the 'native-lib' library on application startup.
     static {
         System.loadLibrary("native-lib");

@@ -17,4 +17,5 @@ public class Test {
     public void fun1(){
         System.out.println("==================11111111111111111");
     }
+    int name = 100;
 }
